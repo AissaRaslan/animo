@@ -1,0 +1,276 @@
+[
+  {
+    "fecha": "2025-10-14 14:01",
+    "usuario": "aissa",
+    "animo": 1,
+    "nota": "bien",
+    "habitos_estado": {
+      "Salud": true,
+      "Ejercicio": true,
+      "Comida": true,
+      "Sueño": true,
+      "Pasatiempo": true
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-14 14:02",
+    "usuario": "ola",
+    "animo": 1,
+    "nota": "mal",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-14 14:03",
+    "usuario": "Aissa",
+    "animo": 3,
+    "nota": "mas o menos",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": true,
+      "Sueño": true,
+      "Pasatiempo": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-14 14:20",
+    "usuario": "sa",
+    "animo": 3,
+    "nota": "",
+    "habitos_estado": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-14 15:08",
+    "usuario": "aissa",
+    "animo": 5,
+    "nota": "aaaa",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": true
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-14 15:08",
+    "usuario": "matias",
+    "animo": 1,
+    "nota": "mal",
+    "habitos_estado": {
+      "Salud": true,
+      "Ejercicio": true,
+      "Comida": true,
+      "Sueño": false,
+      "Pasatiempo": true
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-15 21:16",
+    "usuario": "Usuario",
+    "animo": 3,
+    "nota": "",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": false,
+      "Amigos": false,
+      "Familia": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-15 21:16",
+    "usuario": "Usuario",
+    "animo": 3,
+    "nota": "",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": false,
+      "Amigos": false,
+      "Familia": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-15 21:19",
+    "usuario": "Usuario",
+    "animo": 5,
+    "nota": "",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": false,
+      "Amigos": false,
+      "Familia": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-15 21:25",
+    "usuario": "Usuario",
+    "animo": 3,
+    "nota": "",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": false,
+      "Amigos": false,
+      "Familia": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-15 21:29",
+    "usuario": "Usuario",
+    "animo": 3,
+    "nota": "",
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": false,
+      "Amigos": true,
+      "Familia": false
+    },
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    }
+  },
+  {
+    "fecha": "2025-10-16 23:41",
+    "usuario": "Usuario",
+    "animo": 5,
+    "habitos_basicos": {
+      "Agua": false,
+      "Ejercicio": false,
+      "Estudio": false
+    },
+    "habitos_estado": {
+      "Salud": false,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": false,
+      "Amigos": false,
+      "Familia": false
+    },
+    "nota": ""
+  },
+  {
+    "fecha": "2025-10-17 22:23",
+    "usuario": "PEPE",
+    "animo": 1,
+    "habitos_basicos": {
+      "Agua": true,
+      "Ejercicio": true,
+      "Estudio": true
+    },
+    "habitos_estado": {
+      "Salud": true,
+      "Ejercicio": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Estudio": true,
+      "Amigos": true,
+      "Familia": false
+    },
+    "nota": "aaa"
+  },
+  {
+    "fecha": "2025-10-18 16:06",
+    "usuario": "PEPE",
+    "animo": 3,
+    "habitos_basicos": {
+      "Agua": true,
+      "Ejercicio": true,
+      "Estudio": true
+    },
+    "habitos_estado": {
+      "Salud": true,
+      "Ejercicio": true,
+      "Comida": true,
+      "Sueño": true,
+      "Pasatiempo": true,
+      "Estudio": true,
+      "Amigos": true,
+      "Familia": true
+    },
+    "nota": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaa"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "2025-10-16 23:32",
+    "usuario": "Usuario",
+    "animo": 3,
+    "habitos_basicos": {
+      "Agua": true,
+      "Ejercicio": true,
+      "Estudio": true
+    },
+    "habitos_estado": {
+      "Salud": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Amigos": false,
+      "Familia": false
+    },
+    "nota": ""
+  },
+  {
+    "fecha": "2025-10-16 23:32",
+    "usuario": "Usuario",
+    "animo": 5,
+    "habitos_basicos": {
+      "Agua": true,
+      "Ejercicio": true,
+      "Estudio": true
+    },
+    "habitos_estado": {
+      "Salud": false,
+      "Comida": false,
+      "Sueño": false,
+      "Pasatiempo": false,
+      "Amigos": true,
+      "Familia": false
+    },
+    "nota": ""
+  }
+]

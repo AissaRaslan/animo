@@ -1,0 +1,10 @@
+[
+  {
+    "fecha": "2025-10-07",
+    "animo": 3,
+    "agua": false,
+    "ejercicio": true,
+    "estudio": false,
+    "nota": "me quiero cortar los cocos"
+  }
+]
